@@ -8,3 +8,14 @@ The tracking system is intended to be connected to the Pitt ID swipe system. Eve
 The model depicted on the website shows a scaled down version for a quick demo. The grid on the left demonstrates the estimated amount of people currently at the gym, and what time they are expected to leave. On the right side is a graph that demonstrates how historically busy the gym is at that exact date and time interval, along with an estimate on whether the gym is very busy, a little busy, or not busy. 
 
 Realistically, this model would move much slower. Instead of refreshing every second, it would be on the scale of minutes, and instead of a day being considered a minute long, it would be 1440 minutes long. Since the test data is randomly generated, the real-world data would give a lot more predictable estimate than that given by the analysis of randomized data. 
+
+## Preview
+
+### Landing Page
+![Landing Page](https://github.com/jerols4/GymBuddy/blob/master/Landing.PNG)
+
+### Gym Traffic
+![Gym Traffic Page](https://github.com/jerols4/GymBuddy/blob/master/ActivityTracker.PNG)
+
+### Workout Tracker
+![Workout Tracker Page](https://github.com/jerols4/GymBuddy/blob/master/WorkoutTracker.PNG)
